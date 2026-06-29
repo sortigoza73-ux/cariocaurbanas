@@ -1,7 +1,7 @@
 // CONFIGURACIÓN RÁPIDA
 // Cambiar este número por el WhatsApp real de Carioca, con código país y sin signos.
 // Ejemplo Argentina: 543425980000
-const WHATSAPP_NUMBER = "543425459234";
+const WHATSAPP_NUMBER = "54934254592345";
 const WHATSAPP_TEXT = "Hola Carioca Urbanas, quiero consultar por un modelo del catálogo.";
 const TOTAL_PAGES = 23;
 
